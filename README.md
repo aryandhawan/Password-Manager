@@ -5,5 +5,7 @@ This is being created by importing libraries like tkinter, JSON and pyperclip
 
 
 Tkinter for the GUI
-JSON as a data storing type 
+
+JSON as a data storing type
+
 pyperclip for copy-pasting the stuff 
